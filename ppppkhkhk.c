@@ -1,3 +1,10 @@
+//cprogramming final project for first sem. Prepared by
+   (group 8)
+-Pingal Kunwar
+-Prashant Chaudhary
+-Prakriti Ranabhat
+-Prabin Chaudhary//
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
