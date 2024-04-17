@@ -1,9 +1,11 @@
-//cprogramming final project for first sem. Prepared by
+/*cprogramming final project for first sem. Prepared by
+BCE Civil C/D
    (group 8)
 -Pingal Kunwar
 -Prashant Chaudhary
 -Prakriti Ranabhat
--Prabin Chaudhary//
+-Prabin Chaudhary
+*/
 
 #include <stdio.h>
 #include <string.h>
